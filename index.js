@@ -1,5 +1,4 @@
 // Assigning New Variable Names to Object Keys
-
 var object = {
   name: 'elvis',
   title: 'hip swinger'
@@ -7,7 +6,6 @@ var object = {
 
 //Solution
 var { name: person, title: job } = object;
-
 
 // Variable Swapping: Array
 var items = ['apple', 'banana', 'pear']
@@ -17,7 +15,6 @@ var [a, b] = items
 [a,b] = [b,a]
 
 //Object Matching
-
 var object = {
   user: 'brenna',
   id: 1,
