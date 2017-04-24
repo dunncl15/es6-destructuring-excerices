@@ -1,4 +1,5 @@
 // Assigning New Variable Names to Object Keys
+
 var object = {
   name: 'elvis',
   title: 'hip swinger'
